@@ -1,6 +1,6 @@
 
 function App() {
     return (
-        <div>Nhóm 9</div>
+        <div>Nguyễn Hồng Sơn - Frontend</div>
     )
 }
